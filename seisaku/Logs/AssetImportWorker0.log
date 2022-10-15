@@ -11,19 +11,19 @@ C:\Program Files\Unity\Hub\Editor\2020.3.26f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/student/Desktop/newSotu/seisaku
+C:/Users/student/Desktop/sotugyou/seisaku
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52432
-Successfully changed project path to: C:/Users/student/Desktop/newSotu/seisaku
-C:/Users/student/Desktop/newSotu/seisaku
+49958
+Successfully changed project path to: C:/Users/student/Desktop/sotugyou/seisaku
+C:/Users/student/Desktop/sotugyou/seisaku
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 33.14 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 32.73 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.26f1 (7298b473bc1a)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/student/Desktop/newSotu/seisaku/Assets
+[Subsystems] Discovering subsystems at path C:/Users/student/Desktop/sotugyou/seisaku/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -35,75 +35,75 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56448
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56960
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002122 seconds.
+Registered in 0.001959 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 32.02 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 32.30 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.447 seconds
+- Completed reload, in  0.433 seconds
 Domain Reload Profiling:
-	ReloadAssembly (447ms)
-		BeginReloadAssembly (43ms)
+	ReloadAssembly (433ms)
+		BeginReloadAssembly (42ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (347ms)
-			LoadAssemblies (41ms)
+		EndReloadAssembly (335ms)
+			LoadAssemblies (40ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (115ms)
+			SetupTypeCache (113ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (23ms)
-			SetupLoadedEditorAssemblies (130ms)
+			RebuildScriptCaches (22ms)
+			SetupLoadedEditorAssemblies (123ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (32ms)
-				BeforeProcessingInitializeOnLoad (13ms)
+				BeforeProcessingInitializeOnLoad (6ms)
 				ProcessInitializeOnLoadAttributes (60ms)
-				ProcessInitializeOnLoadMethodAttributes (21ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003840 seconds.
+Registered in 0.003584 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 32.37 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 32.46 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.852 seconds
+- Completed reload, in  0.838 seconds
 Domain Reload Profiling:
-	ReloadAssembly (853ms)
-		BeginReloadAssembly (111ms)
+	ReloadAssembly (839ms)
+		BeginReloadAssembly (109ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (13ms)
-		EndReloadAssembly (692ms)
-			LoadAssemblies (72ms)
+			CreateAndSetChildDomain (12ms)
+		EndReloadAssembly (682ms)
+			LoadAssemblies (69ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (229ms)
+			SetupTypeCache (233ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (36ms)
-			SetupLoadedEditorAssemblies (262ms)
+			SetupLoadedEditorAssemblies (249ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (32ms)
-				BeforeProcessingInitializeOnLoad (59ms)
-				ProcessInitializeOnLoadAttributes (148ms)
+				RefreshPlugins (33ms)
+				BeforeProcessingInitializeOnLoad (53ms)
+				ProcessInitializeOnLoadAttributes (142ms)
 				ProcessInitializeOnLoadMethodAttributes (12ms)
 				AfterProcessingInitializeOnLoad (6ms)
 				EditorAssembliesLoaded (0ms)
@@ -116,11 +116,11 @@ Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 second
 Refreshing native plugins compatible for Editor in 0.38 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2161 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.7 MB.
-System memory in use after: 97.8 MB.
+System memory in use before: 95.1 MB.
+System memory in use after: 95.2 MB.
 
-Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2595.
-Total: 2.214400 ms (FindLiveObjects: 0.135600 ms CreateObjectMapping: 0.068000 ms MarkObjects: 1.970600 ms  DeleteObjects: 0.039500 ms)
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2596.
+Total: 2.201300 ms (FindLiveObjects: 0.141500 ms CreateObjectMapping: 0.078500 ms MarkObjects: 1.942200 ms  DeleteObjects: 0.038500 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -135,130 +135,104 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/110_Neurasthenia/Scene
-  artifactKey: Guid(13051a172e5290e449602f9d8b5f6db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/110_Neurasthenia/Scene using Guid(13051a172e5290e449602f9d8b5f6db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef30973715e5f79da2477c0756d9e2a2') in 0.003691 seconds 
-  Import took 0.005870 seconds .
+  path: Assets/t_Tama/Launching_business/Launching_business.unity
+  artifactKey: Guid(78b52de5a13be6f428ac8b38f55f0b19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/t_Tama/Launching_business/Launching_business.unity using Guid(78b52de5a13be6f428ac8b38f55f0b19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '633e190c46ee3dd5badbf7323f4b76e9') in 0.008840 seconds 
+  Import took 0.011093 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000254 seconds.
-  path: Assets/110_Neurasthenia
-  artifactKey: Guid(2583644c82692ab43bbda7a95a047a8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/110_Neurasthenia using Guid(2583644c82692ab43bbda7a95a047a8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b822e5664d3a7af1d4d137fd16d7654e') in 0.001569 seconds 
-  Import took 0.003649 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000210 seconds.
-  path: Assets/110_Neurasthenia/Scripts
-  artifactKey: Guid(4f652022a3efe1b42bdbdaf1e5c8e7dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/110_Neurasthenia/Scripts using Guid(4f652022a3efe1b42bdbdaf1e5c8e7dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af183285ae74bac4ec4008fdeea49b50') in 0.001684 seconds 
-  Import took 0.004002 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.115840 seconds.
-  path: Assets/110_Neurasthenia/Scene/Maingame.unity
-  artifactKey: Guid(48af69177151e7d43a05889d447b337b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/110_Neurasthenia/Scene/Maingame.unity using Guid(48af69177151e7d43a05889d447b337b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee87300fa091259e8e2088506e26b7af') in 0.011413 seconds 
-  Import took 0.014545 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.862766 seconds.
+  Time since last request: 0.000256 seconds.
   path: Assets/t_Tama/Launching_business
   artifactKey: Guid(282360da7ee8e7240bf137fdbed52e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/t_Tama/Launching_business using Guid(282360da7ee8e7240bf137fdbed52e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0934f758808a210db2756d911fd7d232') in 0.002670 seconds 
-  Import took 0.006224 seconds .
+Start importing Assets/t_Tama/Launching_business using Guid(282360da7ee8e7240bf137fdbed52e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0934f758808a210db2756d911fd7d232') in 0.001192 seconds 
+  Import took 0.003220 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.265804 seconds.
+  Time since last request: 4.932207 seconds.
+  path: Assets/t_Tama/Launching_business/Lbscript
+  artifactKey: Guid(7ef8177bc34e54d4097f358fce179576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/t_Tama/Launching_business/Lbscript using Guid(7ef8177bc34e54d4097f358fce179576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e3d2d81026c7b77aa47b02b415ce1c2') in 0.002043 seconds 
+  Import took 0.005496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.854392 seconds.
   path: Assets/t_Tama/Launching_business/Lbimage
   artifactKey: Guid(aedd9740293d64245a11650fb3ed61af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/t_Tama/Launching_business/Lbimage using Guid(aedd9740293d64245a11650fb3ed61af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f86b802bf521abb478a2c50625b794af') in 0.002640 seconds 
-  Import took 0.006229 seconds .
+Start importing Assets/t_Tama/Launching_business/Lbimage using Guid(aedd9740293d64245a11650fb3ed61af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f86b802bf521abb478a2c50625b794af') in 0.001941 seconds 
+  Import took 0.005389 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.075303 seconds.
+  Time since last request: 0.104630 seconds.
   path: Assets/t_Tama/Launching_business/Lbimage/Red_flag.png
   artifactKey: Guid(94be48530c14cac40b4b60a1605b9810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/t_Tama/Launching_business/Lbimage/Red_flag.png using Guid(94be48530c14cac40b4b60a1605b9810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc2c74a844fd2f93c9f77029a4620857') in 0.101198 seconds 
-  Import took 0.106084 seconds .
+Start importing Assets/t_Tama/Launching_business/Lbimage/Red_flag.png using Guid(94be48530c14cac40b4b60a1605b9810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc2c74a844fd2f93c9f77029a4620857') in 0.115129 seconds 
+  Import took 0.122024 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000186 seconds.
+  Time since last request: 0.000150 seconds.
   path: Assets/t_Tama/Launching_business/Lbimage/White_flag.png
   artifactKey: Guid(dde5b42b6dc76624ab1dfeb61ef38638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/t_Tama/Launching_business/Lbimage/White_flag.png using Guid(dde5b42b6dc76624ab1dfeb61ef38638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2e860f1863afb3094fefef5e365a689') in 0.012936 seconds 
-  Import took 0.015290 seconds .
+Start importing Assets/t_Tama/Launching_business/Lbimage/White_flag.png using Guid(dde5b42b6dc76624ab1dfeb61ef38638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2e860f1863afb3094fefef5e365a689') in 0.012462 seconds 
+  Import took 0.015111 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 16.017586 seconds.
-  path: Assets/110_Neurasthenia/Scripts/NewBehaviourScript.cs
-  artifactKey: Guid(98b176bf240ee8040861ff8b155ce2d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/110_Neurasthenia/Scripts/NewBehaviourScript.cs using Guid(98b176bf240ee8040861ff8b155ce2d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28cb5f71de7f2e60f457e33bfc886b15') in 0.003755 seconds 
-  Import took 0.006411 seconds .
+  Time since last request: 14.694522 seconds.
+  path: Assets/t_Tama/Launching_business/Lbimage/めっちゃいい画像.png
+  artifactKey: Guid(0fbf31f31fbcba14ab5d6e29186f6615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/t_Tama/Launching_business/Lbimage/めっちゃいい画像.png using Guid(0fbf31f31fbcba14ab5d6e29186f6615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '269cfc29802ce9e0ec87b88321d2119e') in 0.016828 seconds 
+  Import took 0.019438 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003596 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.765 seconds
-Domain Reload Profiling:
-	ReloadAssembly (765ms)
-		BeginReloadAssembly (89ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (26ms)
-		EndReloadAssembly (627ms)
-			LoadAssemblies (69ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (223ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (32ms)
-			SetupLoadedEditorAssemblies (225ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (70ms)
-				ProcessInitializeOnLoadAttributes (136ms)
-				ProcessInitializeOnLoadMethodAttributes (8ms)
-				AfterProcessingInitializeOnLoad (6ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (6ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.37 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2151 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 100.0 MB.
-System memory in use after: 100.1 MB.
+Received Import Request.
+  Time since last request: 5.143644 seconds.
+  path: Assets/t_Tama/Launching_business/Lbimage/やばい画像.png
+  artifactKey: Guid(f68d0405505322148b24e7b281b02ebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/t_Tama/Launching_business/Lbimage/やばい画像.png using Guid(f68d0405505322148b24e7b281b02ebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bf758285119640ed0f3876c077756a7') in 0.020197 seconds 
+  Import took 0.022764 seconds .
 
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2604.
-Total: 2.189700 ms (FindLiveObjects: 0.132400 ms CreateObjectMapping: 0.068400 ms MarkObjects: 1.977200 ms  DeleteObjects: 0.010900 ms)
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/t_Tama/Launching_business/Lbimage/森１.png
+  artifactKey: Guid(094324bfdefacc14e9c6e0b962ef55ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/t_Tama/Launching_business/Lbimage/森１.png using Guid(094324bfdefacc14e9c6e0b962ef55ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b03df82e0db47799ba58fb77baebc61d') in 0.017326 seconds 
+  Import took 0.019623 seconds .
 
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/t_Tama/Launching_business/Lbimage/森４.png
+  artifactKey: Guid(7ea82e38d6da69a45abd1219389f5998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/t_Tama/Launching_business/Lbimage/森４.png using Guid(7ea82e38d6da69a45abd1219389f5998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f2675e781946237d407ab54b57a1f85') in 0.010660 seconds 
+  Import took 0.013006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.165419 seconds.
+  path: Assets/t_Tama/Launching_business/Lbimage/テストイメージ画像.png
+  artifactKey: Guid(bf3210cbd241f64428f66ebb668e68e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/t_Tama/Launching_business/Lbimage/テストイメージ画像.png using Guid(bf3210cbd241f64428f66ebb668e68e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7246c328f2f7ac11da339856b9ccefb8') in 0.015295 seconds 
+  Import took 0.017899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/t_Tama/Launching_business/Lbimage/森３.png
+  artifactKey: Guid(872d311699f8fcc4d9fa0e98503b8c3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/t_Tama/Launching_business/Lbimage/森３.png using Guid(872d311699f8fcc4d9fa0e98503b8c3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '721c98be0c602fafa605b6698855cbab') in 0.008470 seconds 
+  Import took 0.010885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/t_Tama/Launching_business/Lbimage/森２.png
+  artifactKey: Guid(e58010be41bdbc346be3a299af1de3ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/t_Tama/Launching_business/Lbimage/森２.png using Guid(e58010be41bdbc346be3a299af1de3ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd295ad4f4c2b3ddb13d2fb66f01a0d9') in 0.008412 seconds 
+  Import took 0.010856 seconds .
+
